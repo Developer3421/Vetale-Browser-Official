@@ -58,8 +58,8 @@ Get it on Microsoft Store
 Vetale Browser is distributed via Microsoft Store.
 
 Microsoft Store: (add the Store link here)
-Tip: once you have the final Store URL, replace the placeholder above with the direct listing link.
 
+](https://apps.microsoft.com/detail/9p2xg1k9cvmh?hl=en-US&gl=US)
 License
 See LICENSE.
 
