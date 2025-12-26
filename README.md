@@ -82,7 +82,7 @@ Vetale Browser is distributed via **Microsoft Store**.
 
 - Microsoft Store: **((https://apps.microsoft.com/detail/9p2xg1k9cvmh?hl=en-US&gl=US))**
 
-> Tip: once you have the final Store URL, replace the placeholder above with the direct listing link.
+
 
 ---
 
