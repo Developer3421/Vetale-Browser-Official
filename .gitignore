@@ -1,0 +1,15 @@
+# Node.js / Next.js
+website/node_modules/
+website/.next/
+website/out/
+website/.env*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
